@@ -1,0 +1,75 @@
+,Sample,Meter,Reference,Glucose Reading,Haematocrit
+0,A,Accu-check Performa,3.9,3.6,False
+1,A,Accu-check Performa,3.9,3.7,False
+2,D,Accu-check Performa,7.2,6.7,False
+7,C,eBwell,6.1,11.1,False
+14,A,TrueMetrix,3.9,E-0,False
+15,B,TrueMetrix,5.0,E-0,False
+16,C,TrueMetrix,6.1,E-0,False
+17,D,TrueMetrix,7.2,E-0,False
+22,A,Accu-check Performa,3.9,3.7,False
+23,B,Accu-check Performa,5.0,4.9,False
+24,C,Accu-check Performa,6.1,5.9,False
+25,D,Accu-check Performa,7.2,7,False
+30,A,eBwell,3.9,5.4,False
+31,B,eBwell,5.0,8.2,False
+32,C,eBwell,6.1,9.1,False
+33,D,eBwell,7.2,10.2,False
+37,A,TrueMetrix,3.9,E-0,False
+38,B,TrueMetrix,5.0,E-0,False
+67,B,AC-Aviva,5.0,E-1 then E-6,False
+68,C,AC-Aviva,6.1,E-1 then E-6,False
+74,B,eBwell,5.0,7.1,False
+75,C,eBwell,6.1,8.9,False
+83,B,TrueMetrix,5.0,E-0,False
+84,C,TrueMetrix,6.1,E-0,False
+91,A,AC-Aviva,3.9,E-1 then E-6,False
+92,B,AC-Aviva,5.0,E-1 then E-6,False
+98,A,eBwell,3.9,5.9,False
+99,A,eBwell,3.9,5.6,False
+100,B,eBwell,5.0,9.1,False
+101,B,eBwell,5.0,7.9,False
+102,C,eBwell,6.1,9.3,False
+103,C,eBwell,6.1,11.7,False
+104,D,eBwell,7.2,12.2,False
+105,D,eBwell,7.2,10.4,False
+114,C,Accu-check Performa,6.1,E-1,False
+115,C,Accu-check Performa,6.1,112,False
+116,D,Accu-check Performa,7.2,120,False
+121,B,eBwell,5.0,8.2,False
+122,C,eBwell,6.1,9.4,False
+129,D,TrueMetrix,7.2,E0,False
+137,A,AC-Aviva,3.9,E-1 then E-6,False
+138,D,AC-Aviva,7.2,E-1 then E-6,False
+144,A,eBwell,3.9,4.9,False
+145,D,eBwell,7.2,11.2,False
+152,A,TrueMetrix,3.9,E-0,False
+153,D,TrueMetrix,7.2,E-0,False
+160,C,Accu-check Performa,6.1,5.9,False
+161,D,Accu-check Performa,7.2,6.8,False
+168,C,eBwell,6.1,10.6,False
+169,D,eBwell,7.2,10.9,False
+175,C,TrueMetrix,6.1,E-0,False
+176,D,TrueMetrix,7.2,E-0,False
+183,A,Accu-check Performa,3.9,3.5,False
+184,B,Accu-check Performa,5.0,4.5,False
+185,C,Accu-check Performa,6.1,5.3,False
+186,D,Accu-check Performa,7.2,6.3,False
+188,A,eBwell,3.9,5.7,False
+189,B,eBwell,5.0,8.3,False
+190,C,eBwell,6.1,10.4,False
+191,D,eBwell,7.2,10,False
+194,A,TrueMetrix,3.9,Invalid - too low haemotacrit (E-0),False
+195,B,TrueMetrix,5.0,Invalid - too low haemotacrit (E-0),False
+196,C,TrueMetrix,6.1,Invalid - too low haemotacrit (E-0),False
+197,D,TrueMetrix,7.2,Invalid - too low haemotacrit (E-0),False
+201,A,Accu-check Performa,3.9,E1 error ('test strip may be damaged…',False
+202,B,Accu-check Performa,5.0,E1 error ('test strip may be damaged…',False
+209,D,eBwell,7.2,11.1,False
+210,D,eBwell,7.2,10.7,False
+216,A,TrueMetrix,3.9,E0 - 'Invalid haematocrit',False
+217,B,TrueMetrix,5.0,E0 - 'Invalid haematocrit',False
+223,B,AC-Aviva,5.0,4.9,False
+230,B,eBwell,5.0,E-U,False
+231,B,eBwell,5.0,7.5,False
+238,B,TrueMetrix,5.0,E-0,False

@@ -1,0 +1,11 @@
+\begin{tabular}{lr}
+\toprule
+{} &     Error \\
+Meter               &           \\
+\midrule
+AC-Aviva            &  1.750000 \\
+Accu-check Performa &  1.583333 \\
+TrueMetrix          &  1.970000 \\
+eBwell              &  5.200000 \\
+\bottomrule
+\end{tabular}
